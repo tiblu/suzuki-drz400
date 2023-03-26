@@ -1,2 +1,3 @@
-# suzuki-drz400
-Data for the Suzuki DRZ 400.
+# Suzuki DRZ400
+
+This project is for storing information about Suzuki DRZ-400 motorcycle.
